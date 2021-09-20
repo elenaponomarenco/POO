@@ -1,4 +1,4 @@
-﻿/*
+/*
  * _Basic Level_ (mark 5 || 6):
     - Create a program where you can manipulate a monitor object which has color, dimensions and resolution. 
     
