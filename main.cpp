@@ -1,3 +1,12 @@
+/*
+    - Create a program where you can manipulate a monitor object which has color, dimensions and resolution. 
+    
+    Perform the following steps: 
+    1. Create a monitor.
+    2. Update the monitor's properties.
+    3. Create second monitor and then compare with first one created above.
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 class Monitor
@@ -31,9 +40,6 @@ int main() {
     // Declare an object of class geeks
     Monitor obj1;
     Monitor obj2;
-
-    // accessing data member
- /*   obj1.geekname = "Abhi";  */
 
     // accessing member function
     cout << "Proprietatile monitorului nr.1"  << endl;
