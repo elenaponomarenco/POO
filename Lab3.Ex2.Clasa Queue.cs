@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -13,6 +13,9 @@ namespace Lab3.ex2
         {
             Size = 15;
         }
-        
+        public Queue()
+        {
+            Size = int.MaxValue;
+        }
     }
 }
